@@ -1,4 +1,5 @@
 Banking Data Management System using Hash Functions 🏦
+
 A high-performance banking records management system built in C++ that leverages advanced hashing techniques to enable constant-time data retrieval for millions of customer records. Designed with multiple collision resolution strategies (chaining, linear probing, quadratic probing, cubic probing) and file persistence for durability.
 
 💡 Problem Statement
@@ -6,13 +7,9 @@ In large-scale banking systems, retrieving customer data from traditional databa
 
 🔧 Features
 Add, delete, and search for customer records
-
 Multiple collision resolution strategies: chaining, linear probing, quadratic probing, cubic probing
-
 File-based persistence for secure data storage
-
 Performance benchmarking between collision strategies
-
 CLI interface for quick testing and debugging
 
 🛠️ Tech Stack
